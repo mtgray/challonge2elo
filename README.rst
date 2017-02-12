@@ -1,7 +1,7 @@
 challonge2elo
 =============
 
-This script implements the Elo rating system for Challonge tournament results. The ratings are output to a CSV file, and they are also saved in a JSON file so that you can go back and update them later with future tournament results.
+This script calculates Elo ratings from Challonge tournament results. The ratings are output to a CSV file, and they are also saved in a JSON file so that you can go back and update them later with future tournament results.
 
 Note that this script relies on players having the same name for each tournament. If you are a tournament organizer, make sure your naming scheme is consistent!
 
