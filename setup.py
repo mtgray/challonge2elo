@@ -6,7 +6,7 @@ with open('README.rst') as f:
 setup(
     name='challonge2elo',
     version='0.1.0',
-    description='Elo ratings from Challonge tournament results.',
+    description='Elo ratings from Challonge tournaments.',
     long_description=readme,
     author='Matthew Gray',
     url='https://github.com/mtgray/challonge2elo',
